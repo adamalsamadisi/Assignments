@@ -1,0 +1,39 @@
+<p>&nbsp;</p>
+<p>OMG! Which Inference Test Are You?</p>
+<div class="page">
+<div class="sticker">4 pts!</div>
+<h1>OMG! Which Inference Test Are You?</h1>
+<h2>A totally essential flowchart quiz for stats besties</h2>
+<div class="points">4-Point Engagement Assignment</div>
+<p>This week, you are creating your own <strong>inference test flow chart</strong> that works like a mid-2000s magazine personality quiz. Your chart should start with the basics: <strong>What type of variable do you have?</strong> Is it categorical or quantitative? Then ask: <strong>How many samples or groups are involved?</strong> From there, your flow chart should branch into the correct inference procedure for each situation we covered this unit.</p>
+<div class="quiz-box">
+<div class="quiz-title">Your Flowchart Should Help Someone Decide...</div>
+<div class="flow">
+<div class="node">What type of variable?</div>
+<div class="arrow">➜</div>
+<div class="node">How many samples or groups?</div>
+<div class="arrow">➜</div>
+<div class="node">Which inference test fits?</div>
+</div>
+<div class="flow">
+<div class="node">Categorical or Quantitative?</div>
+<div class="arrow">➜</div>
+<div class="node">One sample, two samples, paired, or more?</div>
+<div class="arrow">➜</div>
+<div class="node">Confidence interval or hypothesis test?</div>
+</div>
+</div>
+<p>For each path, show how someone would decide which <strong>confidence interval</strong> or <strong>hypothesis test</strong> to use. Your goal is to make a clear, organized guide that helps another student figure out the right test based on the structure of the data and the research question.</p>
+<p>This assignment is graded for <strong>engagement and completeness</strong>, not artistic perfection. That said, your flow chart should be easy to follow, visually organized, and accurate. Use arrows, boxes, colors, icons, quiz-style questions, or any design choices that help make the information clear. To earn full credit, include the major inference tests from this unit, show both <strong>confidence interval</strong> and <strong>hypothesis test</strong> options where appropriate, and make sure your decision points are based on variable type, number of samples or groups, and the purpose of the inference.</p>
+<div class="callout">
+<div class="mini-icons">💖 ✦ 📊 ✦ 💖</div>
+<p>Do not forget your separate callout section! Somewhere on your page, include a boxed sidebar, advice column, &ldquo;must-know&rdquo; tip, or magazine-style warning label that explains both confidence intervals and hypothesis tests.</p>
+<div class="equation">Confidence Interval: statistic &plusmn; margin of error</div>
+<p>In your own words, explain what each part of the confidence interval equation means. Make sure you explain what the statistic represents and what the margin of error tells us.</p>
+<div class="equation">Hypothesis Test: p-value &le; &alpha; &rarr; reject H₀<br />p-value &gt; &alpha; &rarr; fail to reject H₀</div>
+<p>In your own words, explain how a <strong>significance test</strong> leads to a decision. Draw out the process from the <strong>null and alternative hypotheses</strong>, to the <strong>test statistic and p-value</strong>, to the final decision: <strong>reject the null hypothesis</strong> or <strong>fail to reject the null hypothesis</strong>. Make it clear how the p-value is compared to the significance level, &alpha;.</p>
+<p>Finally, include a quick explanation of <strong>Type I</strong> and <strong>Type II errors</strong>. A Type I error happens when we reject the null hypothesis even though it is actually true. A Type II error happens when we fail to reject the null hypothesis even though it is actually false.</p>
+</div>
+<div class="checklist"><strong>Submission Glow-Up Checklist:</strong> includes the major inference tests from this unit &middot; shows confidence intervals and hypothesis tests &middot; starts with variable type and sample/group structure &middot; includes the confidence interval equation &middot; explains Type I and Type II errors &middot; looks clear enough for another student to follow</div>
+<div class="footer"><span class="sparkle">✦</span> Make it clear. Make it accurate. Make it quiz-magazine fabulous. <span class="sparkle">✦</span></div>
+</div>
